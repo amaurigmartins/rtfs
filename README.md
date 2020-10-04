@@ -17,3 +17,5 @@ The main technical highlights are:
 
 External functions included:
 - Paul Mennen (2020). prin (https://www.mathworks.com/matlabcentral/fileexchange/60981-prin), MATLAB Central File Exchange. Retrieved October 4, 2020.
+
+[![View RTFS - Realistic Transmission Line Fault Simulator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80668-rtfs-realistic-transmission-line-fault-simulator)
