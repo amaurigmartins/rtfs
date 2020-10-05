@@ -1,4 +1,4 @@
-# rtfs
+# RTFS - Realistic Transmission Line Fault Simulator
 RTFS is a user-friendly interface designed to assist the user in the task of building complex transmission line models for short-circuit analysis in power systems, using the Alternative Transients Program - ATP. 
 
 This tool enables the user to carry out fault simulations with increased levels of detail, in which line spans, grounding structures, phase conductors, and shield wires are modeled and analyzed individually, allowing the construction of complex designs of long transmission lines, accounting for variations along its course (geometry and conductor changes, transpositions, soil heterogeneities) and providing direct access to current and voltage responses for all conductors at every line section.
