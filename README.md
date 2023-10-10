@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amaurigmartins/groundcalc ) 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amaurigmartins/rtfs ) 
 # RTFS - Realistic Transmission Line Fault Simulator
 RTFS is a user-friendly interface designed to assist the user in the task of building complex transmission line models for short-circuit analysis in power systems, using the Alternative Transients Program - ATP. 
 
