@@ -1,4 +1,6 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amaurigmartins/rtfs ) 
+
+[![View RTFS - Realistic Transmission Line Fault Simulator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80668-rtfs-realistic-transmission-line-fault-simulator)
+ [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=amaurigmartins/rtfs ) 
 # RTFS - Realistic Transmission Line Fault Simulator
 RTFS is a user-friendly interface designed to assist the user in the task of building complex transmission line models for short-circuit analysis in power systems, using the Alternative Transients Program - ATP. 
 
@@ -18,5 +20,3 @@ The main technical highlights are:
 
 External functions included:
 - Paul Mennen (2020). prin (https://www.mathworks.com/matlabcentral/fileexchange/60981-prin), MATLAB Central File Exchange. Retrieved October 4, 2020.
-
-[![View RTFS - Realistic Transmission Line Fault Simulator on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/80668-rtfs-realistic-transmission-line-fault-simulator)
